@@ -1,0 +1,27 @@
+.card{
+   display: flex;
+   /* align-self: center; */
+   justify-content: space-evenly;
+   width: 100%;
+   flex-wrap: wrap;
+   gap: 20px; 
+}
+.card_container{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    flex-direction: column;
+   border-radius: 15px;
+    align-items: center;
+    border: 2px solid brown;
+
+}
+
+.card_img {
+    height: 180px;
+}
+
+.card_text{
+    height: 180px;
+    
+}
