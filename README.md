@@ -1,12 +1,22 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Book Finder WebApp:
+this is a react-based web application that allow users to search for books using the OpenLibrary API.
+the project is styled with Tailwind Css and Deployed on CodeSanbox.
 
-Currently, two official plugins are available:
+# Feature:
+Search book by title.
+Respomnsive book cards.
+Build with React and Tailwind Css.
+Live Preview Hosted on CodeSandBox.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Tools:
+React + Vite
+Tailwind Css
+OpenLibrary API
+CodeSandBox(Deployment)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🤖 Credits
+This project was built with the help of [ChatGPT](https://chat.openai.com/), which provided guidance on Fetch Api , and deployment.
+
